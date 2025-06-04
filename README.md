@@ -1,0 +1,5 @@
+- 💻 Hi, I’m @OLdatascience
+- 👨‍🎓 Degrees in economics (University St-Louis, Brussels) and Business Management - Digital Marketing (UCLouvain, Louvain-La-Neuve)
+- 🌱 I’m interested in Machine learning, Marketing, Finance, Agriculture, Environment 
+- 📚 Certified in Data Analytics (SMCS UCLouvain), DP100 Data Scientist Associate on Microsoft Azure on the way
+- 📫 Contact : olivier.lebert@hotmail.com
